@@ -31,5 +31,5 @@ Typeface changes, Music and Sound, Shaders
 
 ## Created by 
 
-Jason Francis
+Trevor Robbins
 ```
